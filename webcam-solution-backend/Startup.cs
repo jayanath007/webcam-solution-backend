@@ -35,7 +35,7 @@ namespace webcam_solution_backend
             app.UseCors(ConfigOrigins);
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapHub<SignalrWebrtc>("/signalrtc");
+                endpoints.MapHub<SignalrWebrtc>("/signalrWebrtc");
             });
 
             app.Run(async (context) =>
