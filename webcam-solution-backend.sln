@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webcam-solution-backend", "webcam-solution-backend\webcam-solution-backend.csproj", "{0899C4D9-94B5-454D-9658-C8E85A4C16AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0899C4D9-94B5-454D-9658-C8E85A4C16AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0899C4D9-94B5-454D-9658-C8E85A4C16AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0899C4D9-94B5-454D-9658-C8E85A4C16AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0899C4D9-94B5-454D-9658-C8E85A4C16AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD564AD8-19BE-43A0-9ACE-5ED3AFFF5121}
+	EndGlobalSection
+EndGlobal
